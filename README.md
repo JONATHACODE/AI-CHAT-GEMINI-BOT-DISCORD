@@ -1,4 +1,4 @@
-# AI Chat Gemini Bot Discord
+# AI Chat Gemini Bot Discord v0.3
 
 Repository ini berisi kode untuk AI Chat Gemini Bot untuk Discord, yang dikembangkan menggunakan Node.js.
 
